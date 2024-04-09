@@ -1,6 +1,4 @@
-const { createCanvas, loadImage } = require('canvas');
 const { createCanvas } = require('canvas');
-const { createCanvas, loadImage } = require('canvas');
 
 const { RTCPeerConnection, RTCVideoTrack } = require('wrtc');
 
